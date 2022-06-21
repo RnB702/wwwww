@@ -285,9 +285,15 @@ body {
 }
 .reinforcement {
   position: absolute;
-  top: 70px;
+  top: 50px;
   left: 763px;
   border: 2px solid rgb(255, 0, 0);
+}
+.reinforcement1 {
+  position: absolute;
+  top: 80px;
+  left: 763px;
+  border: 2px solid rgb(0, 0, 255);
 }
 .wire_slot {
   width: 70px;
