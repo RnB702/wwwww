@@ -412,9 +412,15 @@ body {
 }
 .alarm {
   position: absolute;
-  top: 68px;
+  top: 50px;
   left: 1273px;
   border: 2px solid rgb(0, 255, 128);
+}
+.alarm1 {
+  position: absolute;
+  top: 80px;
+  left: 1273px;
+  border: 2px solid rgb(255, 128, 0);
 }
 .alarm_slot span {
   display: inline-block;
@@ -434,8 +440,14 @@ body {
 .barricade {
   position: absolute;
   top: 68px;
-  left: 1360px;
+  left: 1347px;
   border: 2px solid rgb(255, 155, 0);
+}
+.barricade1 {
+  position: absolute;
+  top: 68px;
+  left: 1373px;
+  border: 2px solid rgb(0, 155, 255);
 }
 .barricade_slot span {
   display: inline-block;
